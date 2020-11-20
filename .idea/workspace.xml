@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b80d1560-d9fa-490b-b729-e5a51e4adc31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es5.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/polyfills-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/polyfills-es2015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/polyfills-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/polyfills-es5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/styles-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/styles-es2015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/styles-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/styles-es5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/CourseService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/CourseService.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iKwjxxfmE1jzHutTbTxRcklZXX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (routing-demo)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (routing-demo)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80d1560-d9fa-490b-b729-e5a51e4adc31" name="Default Changelist" comment="" />
+      <created>1601669729480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601669729480</updated>
+      <workItem from="1601669730521" duration="454000" />
+      <workItem from="1601670361935" duration="603000" />
+      <workItem from="1601672080555" duration="6511000" />
+      <workItem from="1602197084825" duration="63000" />
+      <workItem from="1602197211726" duration="490000" />
+      <workItem from="1602198366925" duration="3150000" />
+      <workItem from="1602205594025" duration="4920000" />
+      <workItem from="1602280148597" duration="9475000" />
+      <workItem from="1602367488020" duration="423000" />
+      <workItem from="1602372112980" duration="1597000" />
+      <workItem from="1602804001951" duration="11672000" />
+      <workItem from="1603411566698" duration="413000" />
+      <workItem from="1603411997165" duration="2830000" />
+      <workItem from="1604011733329" duration="1229000" />
+      <workItem from="1604111274867" duration="673000" />
+      <workItem from="1604616576187" duration="306000" />
+      <workItem from="1604806424501" duration="880000" />
+      <workItem from="1605224040216" duration="499000" />
+      <workItem from="1605557286053" duration="2127000" />
+      <workItem from="1605829998303" duration="578000" />
+      <workItem from="1605832321084" duration="403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="63" width="1071" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602280234458">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="204" y="73" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1602216061211" />
+    <state x="204" y="73" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812/1440.23.1920.1057@0.23.1440.812" timestamp="1602213457163" />
+    <state x="204" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1601673136336" />
+    <state x="204" y="63" width="1071" height="786" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1602280234458" />
+    <state x="465" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601673971517">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="465" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1601673971517" />
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1602892455739">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1602892455739" />
+  </component>
+</project>
