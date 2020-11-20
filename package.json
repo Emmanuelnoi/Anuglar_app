@@ -2,8 +2,9 @@
   "name": "routing-demo",
   "version": "0.0.0",
   "scripts": {
+    "heroku-postbuild": "ng build --prod",
     "ng": "ng",
-    "start": "ng serve",
+    "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
@@ -12,17 +13,22 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~10.1.4",
+    "@angular/cli": "^10.1.6",
     "@angular/common": "~10.1.4",
     "@angular/compiler": "~10.1.4",
+    "@angular/compiler-cli": "~10.1.4",
     "@angular/core": "^10.1.5",
     "@angular/forms": "~10.1.4",
     "@angular/platform-browser": "~10.1.4",
     "@angular/platform-browser-dynamic": "~10.1.4",
     "@angular/router": "~10.1.4",
     "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
     "rxjs": "~6.6.0",
     "serve": "^11.3.2",
     "tslib": "^2.0.0",
+    "typescript": "~4.0.2",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
@@ -46,5 +52,9 @@
     "typescript": "~4.0.2",
     "@angular-devkit/schematics": "10.1.6",
     "@angular-devkit/core": "10.1.6"
+  },
+  "engines": {
+    "node": "v10.22.1",
+    "npm": "6.14.8"
   }
 }
