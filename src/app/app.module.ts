@@ -8,9 +8,9 @@ import { ProfileComponent } from './profile/profile.component';
 import { RegisterComponent } from './register/register.component';
 //import { routing } from './app-routing.module';
 import { FormsModule} from '@angular/forms';
-import {UserService} from "./services/user.service.client";
-import {RouterModule} from "@angular/router";
-import {CourseService} from "./services/CourseService";
+import {UserService} from './services/user.service.client';
+import {RouterModule} from '@angular/router';
+import {CourseService} from './services/CourseService';
 import { CourseNavigatorComponent } from './course-navigator/course-navigator.component';
 
 @NgModule({

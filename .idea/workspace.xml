@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80d1560-d9fa-490b-b729-e5a51e4adc31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es2015.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/main-es5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/main-es5.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/polyfills-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/polyfills-es2015.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/polyfills-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/polyfills-es5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/styles-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/styles-es2015.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/styles-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/styles-es5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es2015.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/routing-demo/vendor-es5.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/course-navigator/course-navigator.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/course-navigator/course-navigator.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/login/login.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/services/CourseService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/CourseService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/user.service.client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/user.service.client.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +107,18 @@
       <workItem from="1605557286053" duration="2127000" />
       <workItem from="1605829998303" duration="578000" />
       <workItem from="1605832321084" duration="403000" />
-      <workItem from="1605834040520" duration="4202000" />
+      <workItem from="1605834040520" duration="4785000" />
+      <workItem from="1606148266901" duration="2168000" />
+      <workItem from="1606327143262" duration="1055000" />
+      <workItem from="1606328529837" duration="2751000" />
+      <workItem from="1607105769102" duration="664000" />
+      <workItem from="1607361907156" duration="1019000" />
+      <workItem from="1607363959584" duration="4675000" />
+      <workItem from="1607626589980" duration="1205000" />
+      <workItem from="1607710651624" duration="10568000" />
+      <workItem from="1608105788350" duration="590000" />
+      <workItem from="1608227369023" duration="3380000" />
+      <workItem from="1608657049713" duration="72000" />
     </task>
     <servers />
   </component>

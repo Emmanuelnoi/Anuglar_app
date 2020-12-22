@@ -3,7 +3,7 @@ import { Routes, RouterModule} from '@angular/router';
 import { LoginComponent} from './login/login.component';
 import { RegisterComponent} from './register/register.component';
 import { ProfileComponent} from './profile/profile.component';
-import {CourseNavigatorComponent} from "./course-navigator/course-navigator.component";
+import {CourseNavigatorComponent} from './course-navigator/course-navigator.component';
 
 const routes: Routes = [
   { path: 'course', component: CourseNavigatorComponent},
